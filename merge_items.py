@@ -62,6 +62,7 @@ MODEL_DATA = {
     "battery": 13,
     "teddy_bear": 14,
     "telephone": 15,
+    "telephone_ring": 16,   # lit-screen copy; plugin swaps to this while ringing
 }
 
 # model name -> custom_model_data value, for models given a flat 2D icon
